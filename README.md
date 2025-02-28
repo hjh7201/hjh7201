@@ -1,4 +1,6 @@
-## Hi there 👋
+## 爱好
+* 喜欢读推理小说，听音乐以及打游戏，平时爱刷一些娱乐和学习视频
+* 主要掌握c语言，目前在学习python
 
 <!--
 **hjh7201/hjh7201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
